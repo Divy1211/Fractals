@@ -9,6 +9,7 @@ void setup() {
   tree.add(new Branch(s, e));
 }
 void draw() {
+  a = map(mouseX,0,width,0,TAU);
   c = 0;
   background(0);
   for (Branch b : tree) {
