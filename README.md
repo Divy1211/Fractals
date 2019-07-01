@@ -15,9 +15,9 @@ Angle between lines PI/2
 ![](https://github.com/Divy1211/Fractals/blob/master/fractal_trees/pic1.png)  
 
 2. The One called "fractal_trees_oo" is object oriented and generates tree level by level on clicking. The angle between lines **in each successive layer** is determined by relative mouse location.  
-Angle between lines PI/2  
-![](https://github.com/Divy1211/Fractals/blob/master/fractal_trees_oo/pi_2.gif)  
 Angle between lines PI/6  
 ![](https://github.com/Divy1211/Fractals/blob/master/fractal_trees_oo/pi_6.gif)  
+Angle between lines PI/2  
+![](https://github.com/Divy1211/Fractals/blob/master/fractal_trees_oo/pi_2.gif)  
 Mixed angles  
 ![](https://github.com/Divy1211/Fractals/blob/master/fractal_trees_oo/mixed.gif)  
